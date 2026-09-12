@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8bf0edb1c6ea74c27ac20d811e3a5e44f0aa83cf1b152de45da0df4cf2bd52f4"
+hash = "a63d5299e5c7cee15464e6489d7de120271a603c52b0f7cc1936148af39a5cf4"
 
 [[files]]
 file = "config/packwiz_ard/common.toml"
