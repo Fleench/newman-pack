@@ -25,6 +25,8 @@ Prism will automatically download the correct version of NeoForge (1.21.1) and a
 
 Once it finishes loading, simply double-click your new Newman instance to launch the game!
 
+## 4. Server url
+`schmidt-conducting.tun.ply.gg`
 ---
 
 ### Alternative: Local File Import
