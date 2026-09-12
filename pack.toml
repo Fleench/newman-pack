@@ -1,0 +1,13 @@
+name = "Newman Pack"
+author = "flench04"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d139f4e8096dc480cb22fa5ae9359c728e449e386000bcf8398297b2796d2b96"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
