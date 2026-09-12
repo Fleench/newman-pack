@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "8bf0edb1c6ea74c27ac20d811e3a5e44f0aa83cf1b152de45da0df4cf2bd52f4"
+
+[[files]]
+file = "config/packwiz_ard/common.toml"
+hash = "4768d10cbdb48650c308de776e24ed0c1a1cb5c20450a32c9c5b14c56e8035fa"
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
@@ -36,6 +44,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/matthiesen-core.pw.toml"
+hash = "7a965adfc1032770aef315009d039b8f069623dbd92949b54bdf8c2acc3ad875"
+metafile = true
+
+[[files]]
 file = "mods/neo-origins.pw.toml"
 hash = "79482771acb117d034118584d8931d750e67d8b1d9cefe8278759ef24a5522f6"
 metafile = true
@@ -43,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "97660396e7f075f4c9ca8447878ec3da58ebea9ed464cdb494d4db1d62989936"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-ard.pw.toml"
+hash = "0602afc7088a922d2bab670df9e309033e6f818e9a021469c076e1ca0be559de"
 metafile = true
 
 [[files]]

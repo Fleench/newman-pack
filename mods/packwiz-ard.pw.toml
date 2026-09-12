@@ -1,0 +1,13 @@
+name = "PackWiz-ard"
+filename = "packwiz-ard-neoforge-1.0.0-beta.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bVyTANLH/versions/lp6xuQHS/packwiz-ard-neoforge-1.0.0-beta.7.jar"
+hash-format = "sha512"
+hash = "3ca3b51af8033050cdd722b35c8b7e074128448696c890b1402d7d8c7c6f70186632f18a548ea8b5320e9ef0f4d59f0f9fa17345840be9b4d96329f5a2d659a8"
+
+[update]
+[update.modrinth]
+mod-id = "bVyTANLH"
+version = "lp6xuQHS"
