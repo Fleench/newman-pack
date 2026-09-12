@@ -12,7 +12,7 @@ If you don't have it already, download and install [Prism Launcher](https://pris
 ### 2. Copy the Modpack Link
 Right-click and copy the link address below (you just need the URL on your clipboard):
 
-> **`ttps://raw.githubusercontent.com/Fleench/newman-pack/refs/heads/master/newman.mrpack`**
+> **`https://raw.githubusercontent.com/Fleench/newman-pack/refs/heads/master/newman.mrpack`**
 
 ### 3. Import into Prism
 1. Open **Prism Launcher**.
