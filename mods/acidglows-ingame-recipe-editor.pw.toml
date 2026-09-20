@@ -1,0 +1,13 @@
+name = "Acidglow's Ingame Recipe Editor"
+filename = "acidglows_ingame_recipe_editor-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00dcd3ad7f6b60159c86117b0076982823cfd22d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8857195
+project-id = 1691120

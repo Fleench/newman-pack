@@ -1,0 +1,13 @@
+name = "Konkrete"
+filename = "konkrete_neoforge_1.11.1_MC_26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/fCKk8Tai/konkrete_neoforge_1.11.1_MC_26.2.jar"
+hash-format = "sha512"
+hash = "69d20d2ebb94d5c0b82e7724220e9127dcaabe39c61968a0ef3be2a69399d01895b1a1dc3f852d911763b2541b17a9602572a1d76e86fa83ffd95737d75eccc2"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "fCKk8Tai"

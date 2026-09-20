@@ -1,0 +1,13 @@
+name = "Balm"
+filename = "balm-neoforge-26.2-26.2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/lGba52SO/balm-neoforge-26.2-26.2.0.8.jar"
+hash-format = "sha512"
+hash = "e31831a8fb94c559a8e50e123b27f7e10d8f196a053cac82e78ea2cadea776033bf9b351e2db7d21f02dba0cdd8f05c60d6724bfd270f110f74cef605ca5ccc6"
+
+[update]
+[update.modrinth]
+mod-id = "MBAkmtvl"
+version = "lGba52SO"

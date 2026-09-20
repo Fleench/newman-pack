@@ -1,0 +1,16 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-neoforge-26.2-26.2.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/OGz3mqlf/craftingtweaks-neoforge-26.2-26.2.0.3.jar"
+hash-format = "sha512"
+hash = "faf5147aed165a10a65fdde913902ce3f004b4f95829b8727376cc6924189f84b25fc20200b57c37a967f94d2b337feb2286d2ee846d8e46048fbd76ec0f682a"
+
+[update]
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "OGz3mqlf"
+
+[option]
+optional = true

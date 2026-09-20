@@ -1,0 +1,16 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-NeoForge-26.2-0.6.0.72.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/iPgZcbx3/BetterAdvancements-NeoForge-26.2-0.6.0.72.jar"
+hash-format = "sha512"
+hash = "e11f1a61117cd2d9dc6913a14fbcff5a9b6f6ac2b4d338090f65fa0359366452ba66c22e9d397ce73542505010007daa30d595fe0e495b85425429af66f9ba20"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "iPgZcbx3"
+
+[option]
+optional = true
