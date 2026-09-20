@@ -1,6 +1,6 @@
 name = "JamLib"
 filename = "jamlib-neoforge-2.3.1+26.2.x.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/h9zhEdx2/jamlib-neoforge-2.3.1%2B26.2.x.jar"
