@@ -1,12 +1,12 @@
 name = "Newman Pack"
 author = "flench04"
-version = "2.0"
+version = "2.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "18724b8314616bbcb04a4d2058176f4fc75248abd0833f7fae4883f1e626a9df"
+hash = "40af91a5d5ed0eb0b8a69c06d4c067f6369f592b67eb0d5d78586681178a45d3"
 
 [versions]
 minecraft = "1.21.1"
