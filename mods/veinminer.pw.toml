@@ -1,0 +1,13 @@
+name = "VeinMiner"
+filename = "veinminer-neoforge-2.12.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OhduvhIc/versions/bOPIAGfo/veinminer-neoforge-2.12.1.jar"
+hash-format = "sha512"
+hash = "eb453ed8b44e450b263dc305e8a66b4604fc5b9e2dddebe35d98ccdce9ad626ec9be06c0b6e3e6187b5d5fbc9406bc836669dd1fb92aaafb52a4f9b07bd6cc1e"
+
+[update]
+[update.modrinth]
+mod-id = "OhduvhIc"
+version = "bOPIAGfo"

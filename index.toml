@@ -182,6 +182,11 @@ hash = "ffb71b106e41ef39448735e4d9173edfdcaffb82e11cf8d7e98169c54dcbce37"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "b075c10f5a3e574550ca6271824911a29be0267279c6649d5e0f0307fa74207b"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "fd764ec9ea823b82eeab4ae8eae6e28ad4dfb3448bd4818c4cc5967300715153"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "6f8be93279f523226f315826f536d979454c538431f69565fbf015ca201cf43f"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "f45a5db61296d41d71e4f95c4b99809cbb561a1e44440b5ade51b72cfc6b4bdc"
 metafile = true
 
 [[files]]
