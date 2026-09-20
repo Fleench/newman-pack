@@ -5,8 +5,80 @@ file = "README.md"
 hash = "3529a8235009408ead18aaf2ca9d057b669654fb612c5fb59b6984b1c81b066a"
 
 [[files]]
-file = "config/packwiz_ard/common.toml"
-hash = "4768d10cbdb48650c308de776e24ed0c1a1cb5c20450a32c9c5b14c56e8035fa"
+file = "check_git.py"
+hash = "c9842add74f17547bd63feba186b91dd42beaaaf20eb4c76ed6fb770b764c40f"
+
+[[files]]
+file = "config/fancymenu/assets/offline.png"
+hash = "561ee15c99cc1b5e8c27c9eefec4e2cd57ae36da71dd8052cde7cbf21b71251b"
+
+[[files]]
+file = "config/fancymenu/assets/online.png"
+hash = "4a7708fe0153a3786b957404aa91fd2552f8efb0761a7a6fa1f2bc575faadab4"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "a8ad696908ffe1bde863074eb72d83b123b2e2db1cfb5520bf302cc87070ad73"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8c680c1671fa4c91cef47dbc78f1d3eac7f003a4c8949f7401b247f85f7eb3b3"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "customization/offline.png"
@@ -202,3 +274,39 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "website/docker-compose.yml"
+hash = "f82b22fce29b67917b65e5b8af04aa62f49fdfdab261ee9e6920a5443d7dd7a1"
+
+[[files]]
+file = "website/html/copy-configs.png"
+hash = "aa426f51b5baf02187887088b6337e90962d349a9d34f25d905eacd36ea6be8d"
+
+[[files]]
+file = "website/html/copy-options.png"
+hash = "aa7d87d99c15868279923b4d1f5babb02fc62232da07895f9fac5f57f97fc016"
+
+[[files]]
+file = "website/html/index.html"
+hash = "3db359a1b8e1ad909e79f7409f7a3ec83d7a5d7ebd98467d7007af0618027afd"
+
+[[files]]
+file = "website/html/prism-add-instance.png"
+hash = "c75514d03ed7e0dc171af5d0c7ae252579204a1e6310fc07f96a04a3ffa58342"
+
+[[files]]
+file = "website/html/prism-import.png"
+hash = "f403b1db7617b25e2464fe20e876b9ebbfa1a9c3cc69fabffef723c4c42b4053"
+
+[[files]]
+file = "website/html/prism-open-folder.png"
+hash = "8ce83a8e2ca8fe912d523bfdaa73e8f5b2acc218733d9a25ca3f676118296bd9"
+
+[[files]]
+file = "website/html/styles.css"
+hash = "96625c93b69676d30a8f0f2b80aefa3b3c25507e0ddb98320e5efc7ad17b4751"
+
+[[files]]
+file = "website/html/update.html"
+hash = "788c0a5cd232f2edffb1aeede90658012f4bfa60da8563b1ab9061617e98432e"
