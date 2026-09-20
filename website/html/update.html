@@ -3,82 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Newman Pack - Updating</title>
+    <title>Update Newman Pack</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <nav class="navbar">
+        <a href="index.html" class="nav-link">Install Guide</a>
+        <a href="update.html" class="nav-link">Update Guide</a>
+    </nav>
     <header>
-        <h1>Newman Pack 2.0</h1>
-        <p>Leveling up our spiritual journey together! ⬆️🔥</p>
-        <nav>
-            <a href="index.html">Install</a>
-            <a href="update.html" class="active">Update</a>
-        </nav>
+        <h1>Updating Your Newman Pack 🔄</h1>
+        <p>Keep your settings and worlds safe while upgrading!</p>
     </header>
 
     <main>
-        <div class="card">
-            <h2>Updating from v1 🔄</h2>
-            <p>Hey guys! So you're coming from the OG Newman Pack? That is so fire! We need to make sure we bring over your epic world and crucial configs so your transition is completely seamless. Let's do this!</p>
-            
-            <div class="step">
-                <div class="step-num">1</div>
-                <div class="step-content">
-                    <h3>Install the New Pack</h3>
-                    <p>Follow the <a href="index.html">Fresh Install Guide</a> to install the brand new <code>Newman2.zip</code> as a <strong>new instance</strong>. Don't overwrite the old one yet! Keep them side-by-side.</p>
-                </div>
-            </div>
-
-            <div class="step">
-                <div class="step-num">2</div>
-                <div class="step-content">
-                    <h3>Open Both Instance Folders</h3>
-                    <p>In Prism Launcher, right-click your old instance and select "Folder". Do the same for the new instance. Keep both windows open!</p>
-                    <div class="img-container">
-                        <img src="prism-open-folder.png" alt="Screenshot showing Prism Launcher context menu when right-clicking an instance, with 'Folder' highlighted" class="placeholder-img">
-                    </div>
-                </div>
-            </div>
-
-            <div class="step">
-                <div class="step-num">3</div>
-                <div class="step-content">
-                    <h3>Copy Your World (Saves)</h3>
-                    <p>In your old instance folder, open the <code>.minecraft</code> directory. Find the <code>saves</code> folder and copy your world over to the new instance's <code>.minecraft/saves</code> folder. Don't lose that hard work!</p>
-                    <div class="img-container">
-                        <img src="copy-saves.png" alt="Screenshot of a file explorer showing the '.minecraft/saves' directory being highlighted or copied" class="placeholder-img">
-                    </div>
-                </div>
-            </div>
-
-            <div class="step">
-                <div class="step-num">4</div>
-                <div class="step-content">
-                    <h3>Copy Important Configs</h3>
-                    <p>We need to grab some custom keybinds and essential settings. Copy these specific files from the old <code>.minecraft</code> to the new one:</p>
-                    <ul>
-                        <li><code>options.txt</code> (Your keybinds and video settings)</li>
-                        <li><code>journeymap</code> folder (Keep those waypoints safe!)</li>
-                        <li><code>simplevoicechat</code> config folder (If you set up custom mic settings)</li>
-                    </ul>
-                    <div class="img-container">
-                        <img src="copy-configs.png" alt="Screenshot of the file explorer with options.txt and the journeymap folder selected, ready to be copied" class="placeholder-img">
-                    </div>
-                </div>
-            </div>
-
-            <div class="step">
-                <div class="step-num">5</div>
-                <div class="step-content">
-                    <h3>Boot it up!</h3>
-                    <p>Launch the new Newman Pack instance! Your world should be there, totally blessed and ready to go. See you on the server! 🎮🙏</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="praise">
-            "To always be close to Jesus, that's my life plan." - St. Carlo Acutis
-        </div>
+        <section class="instructions">
+            <h2>Update Instructions</h2>
+            <ol>
+                <li>
+                    <p>First, install the new <strong>Newman2.zip</strong> using Prism Launcher as a new instance. Check the <a href="index.html">installation guide</a> if you need help!</p>
+                </li>
+                <li>
+                    <p>Right-click your old instance and select <strong>Folder</strong> to open its directory.</p>
+                    <img src="prism-open-folder.png" alt="A screenshot showing the right-click context menu on the old instance with 'Folder' selected">
+                </li>
+                <li>
+                    <p>Open the <code>.minecraft</code> folder. <strong>Your <code>options.txt</code> file is located directly in the root of this <code>.minecraft</code> instance folder!</strong> Copy this file so you don't lose your keybinds and settings!</p>
+                    <img src="copy-options.png" alt="A screenshot showing the options.txt file located directly in the root of the .minecraft directory, highlighted for copying">
+                </li>
+                <li>
+                    <p>Also inside the <code>.minecraft</code> folder, copy your <code>saves</code>, <code>resourcepacks</code>, and <code>schematics</code> folders if you have them.</p>
+                    <img src="copy-configs.png" alt="A screenshot showing the saves, resourcepacks, and schematics folders inside the .minecraft directory being selected for copying">
+                </li>
+                <li>
+                    <p>Now, open the folder for your new Newman2 instance, go into its <code>.minecraft</code> folder, and paste the copied files! Replace any existing files when prompted.</p>
+                </li>
+                <li>
+                    <p>You're all set! Enjoy the fresh updates! 🎉</p>
+                </li>
+            </ol>
+            <a href="index.html" class="button">Back to Home</a>
+        </section>
     </main>
+
+    <footer>
+        <p>Enjoy the Newman Pack! 💻⛪</p>
+    </footer>
 </body>
 </html>
